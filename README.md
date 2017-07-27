@@ -1,2 +1,2 @@
 # tic-tac-toe
-building a simple game to practice python
+built a simple game to practice python
